@@ -1,0 +1,23 @@
+[
+    {
+        "post_id": 1,
+        "post_title": "hello world",
+        "post_body": "salom dunyo",
+        "post_created_at": "2020-05-15",
+        "user_id": 1
+    },
+    {
+        "post_id": 2,
+        "post_title": "Jahon yangiliklari",
+        "post_body": "Messi PSJ klubiga otdi",
+        "post_created_at": "2020-05-15",
+        "user_id": 2
+    },
+    {
+        "post_id": 3,
+        "post_title": "local nima",
+        "post_body": "localhost server torimi ?",
+        "post_created_at": "2021-08-19T16:28:58.363Z",
+        "user_id": 5
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "user_id": 1,
+        "username": "halil",
+        "password": "1111AAx@@",
+        "age": 19,
+        "contact": "998912345678",
+        "gender": 1
+    },
+    {
+        "user_id": 2,
+        "username": "nodir",
+        "password": "1111rreQ$",
+        "age": 20,
+        "contact": "998934517685",
+        "gender": 1
+    },
+    {
+        "user_id": 3,
+        "username": "donishmand",
+        "age": "19",
+        "contact": "998941049914",
+        "gender": "1",
+        "password": "1111Aa#kio"
+    },
+    {
+        "user_id": 4,
+        "username": "salim",
+        "age": "19",
+        "contact": "998941049914",
+        "gender": "1",
+        "password": "1111Aa#kio"
+    },
+    {
+        "user_id": 5,
+        "username": "abror",
+        "age": 22,
+        "contact": "998933732328",
+        "gender": 1,
+        "password": "1111Aa@@@@"
+    }
+]

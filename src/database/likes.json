@@ -1,0 +1,22 @@
+[
+    {
+        "post_id": 1,
+        "is_like": true,
+        "user_id": 5
+    },
+    {
+        "post_id": 1,
+        "is_like": true,
+        "user_id": 3
+    },
+    {
+        "post_id": 2,
+        "is_like": false,
+        "user_id": 5
+    },
+    {
+        "post_id": 2,
+        "is_like": true,
+        "user_id": 1
+    }
+]
